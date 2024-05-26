@@ -1,1 +1,2 @@
-# Automation-Framework
+Created an automation framework using Selenium Web Driver for comprehensive web application testing across various browsers, employing Git for meticulous version control. Utilized Selenium Web Driver as the primary automation tool.
+Implemented a thorough automation framework using Selenium Web Driver, Python, Git, and Jenkins, significantly improving testing efficiency, expanding test coverage, and enhancing product quality.
